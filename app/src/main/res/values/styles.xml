@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.HisabKhata" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#12264B</item>
+        <item name="colorPrimaryVariant">#0B1934</item>
+        <item name="colorSecondary">#E5B84B</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#0B1934</item>
+        <item name="android:navigationBarColor">#0B1934</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
